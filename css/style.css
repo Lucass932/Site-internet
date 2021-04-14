@@ -18,7 +18,7 @@ body     {
 
 
 header   {
-  background-image: url(https://cdn.discordapp.com/attachments/816506287147843626/826961199161802762/Polish_20210401_003614547.jpg);
+  background-image: url(LIEN DE TON IMAGE QUE TU VEUX METTRE EN HEADER);
   color: #FFF;
   padding: 20px 30px;
 }
@@ -83,7 +83,7 @@ footer img   {
 .hero           {
   min-height: 800px;
   text-align: center;
-  background-color: #222;
+  background-color: #222; <!-- sur cette ligne si tu veux mettre une image a la place d'une couleur supprime le "background-color: #222;" et  marque juste background-image: url(TON LIEN DE LIMAGE) -->
   background-size: cover;
 }
 .hero-content   {
